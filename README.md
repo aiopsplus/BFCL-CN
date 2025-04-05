@@ -25,6 +25,7 @@
       - [(Alternate) Script Execution for Evaluation](#alternate-script-execution-for-evaluation)
   - [Contributing \& How to Add New Models](#contributing--how-to-add-new-models)
   - [Additional Resources](#additional-resources)
+  - [中文测评数据集](#chinese-evaluation-dataset)
 
 ---
 
@@ -261,3 +262,7 @@ For detailed steps, please see the [Contributing Guide](./CONTRIBUTING.md).
 All the leaderboard statistics, and data used to train the models are released under Apache 2.0.
 Gorilla is an open source effort from UC Berkeley and we welcome contributors.
 Please email us your comments, criticisms, and questions. More information about the project can be found at [https://gorilla.cs.berkeley.edu/](https://gorilla.cs.berkeley.edu/)
+
+<h2 id="chinese-evaluation-dataset">中文测评数据集</h2>
+
+我们还提供了中文测评数据集，包含了部分与英文数据集相同的功能调用能力评测。该数据集的设计和结构与英文数据集一致，旨在帮助研究人员和开发者评估中文大语言模型在函数调用方面的能力。

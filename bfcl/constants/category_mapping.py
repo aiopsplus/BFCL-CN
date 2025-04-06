@@ -165,6 +165,18 @@ TEST_COLLECTION_MAPPING = {
         "live_irrelevance",
         "live_relevance",
     ],
+    "zh_evaluation_set": [
+        "zh_exec_multiple",
+        "zh_exec_parallel",
+        "zh_exec_parallel_multiple",
+        "zh_exec_simple",
+        "zh_irrelevance",
+        "zh_multiple",
+        "zh_parallel",
+        "zh_parallel_multiple",
+        "zh_rest",
+        "zh_simple",
+    ],
 }
 
 MULTI_TURN_FUNC_DOC_FILE_MAPPING = {
